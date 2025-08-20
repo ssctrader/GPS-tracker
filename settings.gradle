@@ -1,2 +1,2 @@
+rootProject.name = "GPSTracker"
 include ':app'
-rootProject.name = "GPS-tracker"
